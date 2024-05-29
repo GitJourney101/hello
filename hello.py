@@ -5,3 +5,4 @@ echo "Present Directory:" `pwd`
 ls -altr
 echo "1234" > test1.txt
 ls -altr
+print ("Hellow new Git repo")
